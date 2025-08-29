@@ -8,7 +8,7 @@ app.use(express.json());
 
 const FULL_NAME = "Bhavani_Bojedla";
 const DOB = "20042005";
-const EMAIL = "bhavani.22bce9957@vitapstudent.ac.in";
+const EMAIL = "bhavanibojadla8@gmail.com";
 const ROLL_NUMBER = "22BCE9957";
 
 function reverseAlternatingCaps(str) {
